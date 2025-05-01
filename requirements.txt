@@ -1,0 +1,20 @@
+fastapi==0.115.12
+uvicorn==0.34.2
+langgraph==0.4.0
+pydantic==2.11.4
+faiss-cpu
+PyPDF2
+dotenv
+pydantic-settings
+sentence-transformers
+chromadb
+pypdf
+tiktoken  
+python-multipart
+pip 
+install 
+streamlit 
+requests 
+pandas 
+altair # altair is optional for pie charts
+langchain_core
